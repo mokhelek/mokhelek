@@ -8,7 +8,7 @@
 <a href="https://twitter.com/Mokhele_K?t=UKAgtEBrLuUHO7po3Vv-dw&s=09"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
 </div>
 
-<div align="center"> <h4> My Tech Stack</h4> </div>
+<div align="center"> <h4> 🔭 My Tech Stack</h4> </div>
 <div align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
@@ -24,6 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/> </div>
+<div align="center"> <h4>📉 Statistics </h4> </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mokhelek&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhelek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

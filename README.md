@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hi🖐,I'm Mokhele Katleho</h3>
+<h2>🖐Hi, I'm Mokhele Katleho</h2>
 </div>
 
 ![alt text](Header.png)

@@ -4,8 +4,8 @@
 
 ![alt text](Header.png)
 <div id="badges" align="center" > 
-<a href="https://www.linkedin.com/in/mokhele-katleho"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
-<a href="https://twitter.com/Mokhele_K?t=UKAgtEBrLuUHO7po3Vv-dw&s=09"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
+<a href="https://www.linkedin.com/in/mokhele-katlehog"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
+<a href="https://twitter.com/Mokh6ele_K?t=UKAgtEBrLuUHO7po3Vv-dw&s=09"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
 </div>
 
 <div align="center"> <h4> 🔭 My Tech Stack</h4> </div>

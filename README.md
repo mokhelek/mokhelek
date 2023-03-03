@@ -13,6 +13,7 @@
 - Problem Solver
 - Hard Worker
 - Motivated
+- Problem Solver
 
 
 

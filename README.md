@@ -2,20 +2,11 @@
  <h1>🖐 Hi I'm Mokhele Katleho</h1>
 </div>
 
-![alt text](Header.png)
-<div id="badges" align="center" > 
-<a href="https://www.linkedin.com/in/mokhele-katleho"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
-<a href="https://twitter.com/Mokhele_K"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
-</div>
-
 <br>
 
 - Problem Solver
 - Hard Worker
 - Motivated
-- Problem Solver
-
-
 
 <div align="center"> <h4> 🔭 My Tech Stack</h4> </div>
 <div align="center"> 

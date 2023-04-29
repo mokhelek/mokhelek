@@ -6,7 +6,7 @@
 
 - Problem Solver
 - Hard Worker
-- Motivated
+-  Motivated
 
 <div align="center"> <h4> 🔭 My Tech Stack</h4> </div>
 <div align="center"> 

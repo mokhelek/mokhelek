@@ -20,7 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/> </div>
 <div align="center"> <h4>📉 Statistics </h4> </div>
 
-<div align="center">
+<div align="center" >
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mokhelek&theme=dark&background=000000)](https://git.io/streak-stats)
 

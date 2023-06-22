@@ -2,7 +2,9 @@
  <h1>🖐 Hi I'm Mokhele Katleho</h1>
 </div>
 
-<br>
+
+![header](Header.png)
+
 
 - Skilled Collaborator
 - Commited High Achiever

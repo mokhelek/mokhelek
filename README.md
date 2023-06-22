@@ -4,9 +4,11 @@
 
 <br>
 
+- Skilled Collaborator
+- Commited High Achiever
+- Effective Cross-Functional Communicator
+- Rapid and Adaptive
 - Problem Solver
-- Hard Worker
--  Motivated
 
 <div align="center"> <h4> 🔭 My Tech Stack</h4> </div>
 <div align="center"> 

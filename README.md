@@ -6,11 +6,11 @@
 ![header](Header.png)
 
 
-- Skilled Collaborator
-- Commited High Achiever
-- Effective Cross-Functional Communicator
-- Rapid and Adaptive
-- Problem Solver
+- Skilled Collaborator 🤝
+- Commited High Achiever 🏆
+- Effective Cross-Functional Communicator 🎙
+- Rapid and Adaptive ⚡️
+- Problem Solver 💡
 
 <div align="center"> <h3> 🔭 My Tech Stack</h3> </div>
 <div align="center"> 

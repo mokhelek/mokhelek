@@ -1,5 +1,5 @@
 <div align="center">
- <h1>🖐 Hi I'm Mokhele Katleho</h1>
+ <h1>🖐 Hi, I'm Mokhele Katleho</h1>
 </div>
 
 
@@ -12,7 +12,7 @@
 - Rapid and Adaptive
 - Problem Solver
 
-<div align="center"> <h4> 🔭 My Tech Stack</h4> </div>
+<div align="center"> <h3> 🔭 My Tech Stack</h3> </div>
 <div align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"
 />&nbsp;&nbsp;&nbsp;

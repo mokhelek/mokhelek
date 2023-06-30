@@ -1,8 +1,3 @@
-<div align="center">
- <h1>🖐 Hi, I'm Mokhele Katleho</h1>
-</div>
-
-
 ![header](Header.png)
 
 

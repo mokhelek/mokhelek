@@ -3,7 +3,7 @@
 
 - Skilled Collaborator 🤝
 - Commited High Achiever 🏆
-- Effective Cross-Functional Communicator 🎙
+- Effective Communicator 🎙
 - Rapid and Adaptive ⚡️
 - Problem Solver 💡
 

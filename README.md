@@ -1,6 +1,19 @@
 ![header](Header.png)
 
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Mokhele Katleho (Kat)" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
 - Skilled Collaborator 🤝
 - Commited High Achiever 🏆
 - Effective Communicator 🎙
@@ -22,8 +35,3 @@ width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div>
 <div align="center"> <h4>📉 Statistics </h4> </div>
 
-<div align="center" >
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mokhelek&theme=dark&background=000000)](https://git.io/streak-stats)
-
-</div>

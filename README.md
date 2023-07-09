@@ -22,7 +22,7 @@
 <div align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"
 />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" title="Django" alt="Django" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Flutter" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
@@ -33,13 +33,13 @@ width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div>
 
 
-# Favourite Repos
+# 🌟 Favourite Repos
 
 
 <p align="center">
-    <a href="https://github.com/mokhelek/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mokhelek/SocialWriter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=SocialWriter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/mokhelek/resume-builder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mokhelek&repo=resume-builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/mokhelek/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 

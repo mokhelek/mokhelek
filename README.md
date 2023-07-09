@@ -10,6 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+# 🚀 about
 
 - Skilled Collaborator 🤝
 - Commited High Achiever 🏆
@@ -17,7 +18,9 @@
 - Rapid and Adaptive ⚡️
 - Problem Solver 💡
 
-<div align="center"> <h3> 🔭 My Tech Stack</h3> </div>
+
+# 🛠 Tech Stack
+
 <div align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"
 />&nbsp;&nbsp;&nbsp;
@@ -30,6 +33,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
 width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div>
+
+
+# Favourite Repos
 
 
 <p align="center">

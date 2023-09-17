@@ -20,16 +20,24 @@
 # 🛠 Tech Stack
 
 <div align="center"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"
-/>&nbsp;&nbsp;&nbsp;
-<img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" title="Django" alt="Django" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" alt="Django"  height="46"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  width="43" height="43"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"  width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png"  width="55" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> 
+</div>
 
 
 # 🌟 Favourite Repos

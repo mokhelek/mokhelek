@@ -20,16 +20,15 @@
 # 🛠 Tech Stack
 
 <div align="center"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" title="Django" alt="Django" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Material UI" alt="Material UI" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Flutter" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Gatsby" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-width="50" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div>
 
 

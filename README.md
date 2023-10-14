@@ -16,6 +16,7 @@
 - Rapid and Adaptive ⚡️
 - Problem Solver 💡
 
+[![committers.top badge](https://user-badge.committers.top/south_africa/mokhelek.svg)](https://user-badge.committers.top/south_africa/mokhelek)
 
 # 🛠 Tech Stack
 

@@ -1,49 +1,39 @@
-![heading](header.png)
-
-
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-# 🚀 about
-
-- Skilled Collaborator 🤝
-- Commited High Achiever 🏆
-- Effective Communicator 🎙
-- Rapid and Adaptive ⚡️
-- Problem Solver 💡
-
-[![committers.top badge](https://user-badge.committers.top/south_africa/mokhelek.svg)](https://user-badge.committers.top/south_africa/mokhelek)
-
-# 🛠 Tech Stack
-
-<div align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" alt="Django"  height="46"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  width="43" height="43"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"  width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Git"  width="50" height="50"/> 
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  height="50"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
+<div style="display: flex; justify-content: space-between; align-items: flex-start;margin-bottom:100px">
+  <div>
+    <h2>🛠 Tech Stack</h2>
+    <img style="margin-top: 20px;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right">
+    <p style="width:40%" >
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
+      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript" alt="Typescript">
+      <img src="https://img.shields.io/badge/FastApi-05122A?style=flat&logo=Fastapi" alt="Fastapi">
+      <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"> 
+      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js"><br>
+      <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=00BC81" alt="Django">
+      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" alt="Flask">
+      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
+      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
+      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"><br>
+      <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind-CSS" alt="Tailwind">
+      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown">
+      <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux" alt="Linux">
+      <img src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next-js" alt="Next">
+      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="Docker"><br>
+      <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma" alt="Figma">
+      <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite" alt="Vite">
+      <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express" alt="Express">
+    </p>
+  </div>
 </div>
 
 
-# 🌟 Favourite Repos
+
+
+<br><br>
+
+## 🌟 Favourite Repos
 
 
 <p align="center">
@@ -52,4 +42,17 @@
     <a href="https://github.com/mokhelek/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
+<br>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 

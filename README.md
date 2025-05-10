@@ -1,7 +1,13 @@
+
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Mokhele%20Katleho&textBg=false&section=header&fontSize=70&desc=Software%20Engineer%20|%20Web%20Developer&descAlignY=65&stroke=00563B)
+
+<br>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;margin-bottom:100px">
   <div>
     <h2>🛠 Tech Stack</h2>
-    <img style="margin-top: 20px;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right">
+    <img style="margin-top: 20px;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" align="right">
     <p style="width:40%" >
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
       <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
@@ -29,21 +35,26 @@
 </div>
 
 
-
-
 <br><br>
 
-## 🌟 Favourite Repos
+<div style="margin-top:2rem" >
+  <br>
+  <h2> 🌟 Favourite Repos </h2>
+  
+  <p align="center">
+      <a href="https://github.com/mokhelek/SocialWriter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=SocialWriter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+      <a href="https://github.com/mokhelek/a-django-built-resume-generator.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mokhelek&repo=a-django-built-resume-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+      <a href="https://github.com/mokhelek/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+
+</div>
 
 
-<p align="center">
-    <a href="https://github.com/mokhelek/SocialWriter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=SocialWriter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/mokhelek/a-django-built-resume-generator.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mokhelek&repo=a-django-built-resume-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/mokhelek/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
 
-<br>
 
+
+
+  <br>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

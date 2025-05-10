@@ -5,10 +5,11 @@
 ---
 
 <p style="color: red;" align="center" >
-Hey there! I’m a fullstack sorcerer (read: software engineer) and a ⚡Hogwarts letter recipient (lost in the mail, I swear) who conjures up clean code by day and solves Rubik’s cubes by night. Whether it's JavaScript doing cartwheels in React or Python whispering secrets through Django, I love building things that actually do stuff. I’m obsessed with creating, innovating, and turning late-night ideas into real-world projects. I see code not just as logic, but as modern-day alchemy — turning thoughts into tools.♟️ When I’m not coding, you’ll catch me deep in a chess game, plotting 3 moves ahead like a true strategist. Or maybe solving a Rubik’s cube just because I can!.
+Hey there! I’m a fullstack sorcerer (read: software engineer) and a ⚡Hogwarts letter recipient (lost in the mail, I swear) who conjures up clean code by day and solves Rubik’s cubes by night. Whether it's JavaScript doing cartwheels in React or Python whispering secrets through Django, I love building things that actually do stuff. I’m obsessed with creating, innovating, and turning late-night ideas into real-world projects. <b> I see code not just as logic, but as modern-day alchemy — turning thoughts into tools. </b>♟️ When I’m not coding, you’ll catch me deep in a chess game, plotting 3 moves ahead like a true strategist. Or maybe solving a Rubik’s cube just because I can!.
 </p>
 
 <br>
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;margin-bottom:100px">
   <div>
@@ -41,7 +42,7 @@ Hey there! I’m a fullstack sorcerer (read: software engineer) and a ⚡Hogwart
 </div>
 
 
-<br><br>
+<br>
 
 <div style="margin-top:2rem" >
   <br>
@@ -56,20 +57,5 @@ Hey there! I’m a fullstack sorcerer (read: software engineer) and a ⚡Hogwart
 </div>
 
 
-
-
-
-
   <br>
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
 

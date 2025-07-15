@@ -5,7 +5,7 @@
 ---
 
 <i align="center">
-Hey there! I’m a fullstack sorcerer (read: software engineer) and a ⚡Hogwarts letter recipient (lost in the mail, I swear) who conjures up clean code by day and solves Rubik’s cubes by night. Whether it's JavaScript doing cartwheels in React or Python whispering secrets through Django, I love building things that actually do stuff. I’m obsessed with creating, innovating, and turning late-night ideas into real-world projects. I see code not just as logic, but as modern-day alchemy — turning thoughts into tools.♟️ When I’m not coding, you’ll catch me deep in a chess game, plotting 3 moves ahead like a true strategist. Or maybe solving a Rubik’s cube just because I can!
+Hey there! I’m a fullstack sorcerer (read: fullstack engineer) and a ⚡Hogwarts letter recipient (lost in the mail, I swear) who conjures up clean code by day and solves Rubik’s cubes by night. Whether it's JavaScript doing cartwheels in React or Python whispering secrets through Django, I love building things that actually do stuff. I’m obsessed with creating, innovating, and turning late-night ideas into real-world projects. I see code not just as logic, but as modern-day alchemy — turning thoughts into tools.♟️ When I’m not coding, you’ll catch me deep in a chess game, plotting 3 moves ahead like a true strategist. Or maybe solving a Rubik’s cube just because I can!
 </i>
 
 <br>

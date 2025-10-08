@@ -1,15 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Mokhele%20Katleho&textBg=false&section=header&fontSize=70&desc=Software%20Engineer%20|%20Web%20Developer&descAlignY=65&stroke=00563B)
-
----
-
-<i align="center">
-Hey there! I’m a fullstack sorcerer (read: fullstack engineer) and a ⚡Hogwarts letter recipient (lost in the mail, I swear) who conjures up clean code by day and solves Rubik’s cubes by night. Whether it's JavaScript doing cartwheels in React or Python whispering secrets through Django, I love building things that actually do stuff. I’m obsessed with creating, innovating, and turning late-night ideas into real-world projects. I see code not just as logic, but as modern-day alchemy — turning thoughts into tools.♟️ When I’m not coding, you’ll catch me deep in a chess game, plotting 3 moves ahead like a true strategist. Or maybe solving a Rubik’s cube just because I can!
-</i>
-
-<br>
-
+![header](https://github.com/mokhelek/mokhelek/blob/main/screenshot-08_20%2C%2009_18_01%20PM.jpg)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;margin-bottom:100px">
   <div>
@@ -41,21 +32,4 @@ Hey there! I’m a fullstack sorcerer (read: fullstack engineer) and a ⚡Hogwar
   </div>
 </div>
 
-
-<br>
-
-<div style="margin-top:2rem" >
-  <br>
-  <h2> 🌟 Favourite Repos </h2>
-  
-  <p align="center">
-      <a href="https://github.com/mokhelek/SocialWriter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=SocialWriter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-      <a href="https://github.com/mokhelek/a-django-built-resume-generator.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mokhelek&repo=a-django-built-resume-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-      <a href="https://github.com/mokhelek/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mokhelek&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-</div>
-
-
-  <br>
 
